@@ -1,0 +1,6 @@
+{
+  "name": "ClassVoice",
+  "description": "Smart audio recording and transcription for university classes with schedule-based naming, Cloudflare relay AI, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
